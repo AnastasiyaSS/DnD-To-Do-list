@@ -42,7 +42,7 @@ button {
   display: flex;
   color: #ffcdb2;
   background-color: #e5989b;
-  border-radius: 50px;
+  border-radius: 100%;
   border-style: solid;
   border-color: #e5989b;
   border-width: 1px;
@@ -94,7 +94,7 @@ li {
 li:hover {
   border-color: #6d6875;
   border-style: solid;
-  border-width: 1.5px;
+  border-width: 1px;
 }
 
 .fa-trash-can {
@@ -123,7 +123,7 @@ li:hover {
 .in-progress {
   display: flex;
   flex-flow: row wrap;
-  min-width: 45vw;
+  width: 45vw;
   min-height: 10vh;
 }
 
@@ -140,6 +140,10 @@ li:hover {
   }
   li:hover {
     border-style: none;
+  }
+  input {
+    max-width: 600px;
+    width: 500px;
   }
 }
 
