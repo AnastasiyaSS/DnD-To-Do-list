@@ -148,6 +148,10 @@ li:hover {
 }
 
 @media (max-width: 600px) {
+    input {
+    max-width: 400px;
+    width: 250px;
+  }
   .progress {
     display: flex;
     flex-direction: column;
@@ -178,4 +182,6 @@ footer {
   text-align: center;
   color: #5a5560;
   margin-top: 10vh;
+  margin-bottom: 5vh;
+
 }
