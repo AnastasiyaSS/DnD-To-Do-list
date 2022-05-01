@@ -1,14 +1,14 @@
 # Drag and Drop To Do list
 
 The main idea of the project was:
-* to learn how to work with local storage;
-* to practice how to create drag and drop app;
+* Learn how to work with local storage;
+* Practice how to create drag and drop app;
 The idea to integrate it into task list seemed pretty interesting and challenging.
 
 ## Tech Stack
 * JavaScript
 * HTML
-* Pure CSS
+* Vanilla CSS
 * React
 * React Beautiful DnD
 
