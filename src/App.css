@@ -148,9 +148,17 @@ li:hover {
 }
 
 @media (max-width: 600px) {
-    input {
+  input {
     max-width: 400px;
     width: 250px;
+  }
+  h2 {
+    margin-bottom: 2vh;
+    margin-top: 2vh;
+  }
+  form {
+    margin-top: 4vh;
+    margin-bottom: 4vh;
   }
   .progress {
     display: flex;
@@ -183,5 +191,4 @@ footer {
   color: #5a5560;
   margin-top: 10vh;
   margin-bottom: 5vh;
-
 }
