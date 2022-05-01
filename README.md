@@ -19,6 +19,7 @@ The idea to integrate it into task list seemed pretty interesting and challengin
 
 ## View it live
 
+https://dnd-todo-list.netlify.app/
 
 ## Resources
 Delete and add icons were provided by fontawesome.com
