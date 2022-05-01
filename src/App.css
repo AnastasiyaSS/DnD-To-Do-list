@@ -41,8 +41,11 @@ button {
 .fa-circle-plus {
   display: flex;
   color: #ffcdb2;
-  border-radius: 50px;
   background-color: #e5989b;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #e5989b;
+  border-width: 1px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.061),
     0 6px 6px rgba(19, 18, 18, 0.034);
 }
@@ -50,6 +53,10 @@ button {
 .fa-circle-plus:hover {
   color: #b5838d;
   border-radius: 50px;
+  background-color: #ffcdb2;
+  border-style: solid;
+  border-color: #ffcdb2;
+  border-width: 1px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.061),
     0 6px 6px rgba(19, 18, 18, 0.034);
 }
