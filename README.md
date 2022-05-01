@@ -22,6 +22,7 @@ The idea to integrate it into task list seemed pretty interesting and challengin
 
 ## Resources
 Delete and add icons were provided by fontawesome.com
+
 Color palette was provided by coolors.co
 
 
