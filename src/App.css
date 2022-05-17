@@ -27,6 +27,7 @@ input {
   border-color: #e5989b;
   border-width: 1px;
   background-color: #ffcdb2;
+  margin-bottom: 20px;
 }
 
 ::placeholder {
@@ -42,6 +43,9 @@ button {
 .fa-circle-plus {
   display: flex;
   color: #ffcdb2;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
   background-color: #e5989b;
   border-radius: 100%;
   border-style: solid;
