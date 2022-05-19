@@ -44,7 +44,7 @@ button {
   display: flex;
   color: #ffcdb2;
   margin-bottom: 20px;
-  margin-left: 20px;
+  margin-left: 1vw;
   margin-right: 20px;
   background-color: #e5989b;
   border-radius: 100%;
@@ -193,6 +193,6 @@ footer {
   font-size: 15px;
   text-align: center;
   color: #5a5560;
-  margin-top: 10vh;
+  margin-top: 5vh;
   margin-bottom: 5vh;
 }
